@@ -1,2 +1,2 @@
 # taras_leetcode
-This repository is just responsible for my leetcode activity tracking. 
+This repository is only responsible for tracking my leetcode activity. 
